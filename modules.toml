@@ -1,3 +1,11 @@
 [[module]]
+route = "/level0-ping"
+module = "./target/wasm32-wasi/debug/level0.wasm"
+
+[[module]]
 route = "/level1-ping"
 module = "./target/wasm32-wasi/debug/level1.wasm"
+
+[[module]]
+route = "/level01-ping"
+module = "./target/wasm32-wasi/debug/level01.wasm"

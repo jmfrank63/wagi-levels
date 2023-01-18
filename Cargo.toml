@@ -1,2 +1,2 @@
 [workspace]
-members = ["level1", "level2", "level3", "level4"]
+members = ["level00", "level01", "level02", "level03", "level04", "level05"]
